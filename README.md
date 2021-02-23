@@ -5,7 +5,7 @@ Hi! My name is Natasha Baker, I am a majoring in finance, minoring in computer s
 
 **LinkedIn Page:** [click here](https://www.linkedin.com/in/natashabaker14/)
 
-![profile](https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true =200x)
+![profile](https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true =50x)
 
 
 ## Using Datawrapper
