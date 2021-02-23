@@ -5,7 +5,7 @@ Hi! My name is Natasha Baker, I am a majoring in finance, minoring in computer s
 
 **LinkedIn Page:** [click here](https://www.linkedin.com/in/natashabaker14/)
 
-<img src = "https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true" width = 20% height = 20%>
+![profile](https://github.com/natashabaker/natashabaker.github.io/blob/main/Profile_Picture.png?raw=true =200x)
 
 
 ## Using Datawrapper
